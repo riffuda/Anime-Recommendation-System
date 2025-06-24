@@ -1,4 +1,4 @@
-# Final Project Report – Applied Machine Learning Project: Building an Anime Recommendation System
+## Final Project Report – Applied Machine Learning Project: Building an Anime Recommendation System
 
 ## Project Overview
 
